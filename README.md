@@ -4,6 +4,8 @@ mikroserwis w oparciu o bibliotekę vert.x (https://vertx.io/), maven
 
 baza danych Mongo Db została utworzona w Docker, do kontrolowania zawartości bazy wykorzystano MongoDB Compass
 
+Autoryzacja: JWT auth
+
 tworzenie api wykorzystano Postman:
 
 -rejestracja : Post http://localhost:8080/register {"login":"","password":""}
