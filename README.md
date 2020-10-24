@@ -6,7 +6,7 @@ baza danych Mongo Db została utworzona w Docker, do kontrolowania zawartości b
 
 Autoryzacja: JWT auth
 
-tworzenie api wykorzystano Postman:
+do tworzenia api wykorzystano Postman:
 
 -rejestracja : Post http://localhost:8080/register {"login":"","password":""}
 
